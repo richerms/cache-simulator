@@ -2,6 +2,7 @@
 Simulador de Cache desenvolvido para a disciplina de Arquitetura e Organização de Computador II do Curso de Ciência da Computação da UFPel no semestre 2019/2.
 
 ```
+#Como executar
 
 Necessário apenas o G++:
 sudo apt install g++
